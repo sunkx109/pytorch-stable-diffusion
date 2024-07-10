@@ -13,7 +13,9 @@ PyTorch implementation of Stable Diffusion from scratch
 python3 main.py
 ```
 
+### Blog
 
+* https://zhuanlan.zhihu.com/p/707938542
 
 
 
